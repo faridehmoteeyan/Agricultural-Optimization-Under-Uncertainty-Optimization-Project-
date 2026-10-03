@@ -1,4 +1,4 @@
-﻿# Agricultural-Optimization-Under-Uncertainty-Optimization-Project-
+﻿
 # Agricultural Optimization Under Uncertainty
 ## Implementation and Analysis of the L-Shape Multicut Algorithm
 
@@ -11,6 +11,8 @@ Instructor: Dr. Majid Rafiee
 ## Project Overview
 
 This project models the **Farmer Problem** as a two-stage stochastic programming problem and solves it using the **L-Shape Multicut** algorithm. The goal is to evaluate the efficiency of this method for large-scale problems (64 scenarios) and demonstrate its fast convergence behavior.
+> **Note:** The source code and the full project report (PDF) are available in Persian in this repository.
+
 
 ---
 
