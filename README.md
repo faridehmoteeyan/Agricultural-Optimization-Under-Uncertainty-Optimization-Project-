@@ -1,5 +1,7 @@
 ﻿
 # Agricultural Optimization Under Uncertainty
+<img width="2199" height="1650" alt="image" src="https://github.com/user-attachments/assets/ac536a0d-7baa-4359-8682-7ad2ac48aac9" />
+
 ## Implementation and Analysis of the L-Shape Multicut Algorithm
 
 **Final Project — Stochastic Programming Course**  
